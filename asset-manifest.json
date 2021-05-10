@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/csv-parse-to-table/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/csv-parse-to-table/static/js/main.92e5017b.chunk.js",
+    "main.js.map": "/csv-parse-to-table/static/js/main.92e5017b.chunk.js.map",
+    "runtime-main.js": "/csv-parse-to-table/static/js/runtime-main.f8b9140d.js",
+    "runtime-main.js.map": "/csv-parse-to-table/static/js/runtime-main.f8b9140d.js.map",
+    "static/js/2.46eb1ff9.chunk.js": "/csv-parse-to-table/static/js/2.46eb1ff9.chunk.js",
+    "static/js/2.46eb1ff9.chunk.js.map": "/csv-parse-to-table/static/js/2.46eb1ff9.chunk.js.map",
+    "static/js/3.de2efede.chunk.js": "/csv-parse-to-table/static/js/3.de2efede.chunk.js",
+    "static/js/3.de2efede.chunk.js.map": "/csv-parse-to-table/static/js/3.de2efede.chunk.js.map",
+    "index.html": "/csv-parse-to-table/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/csv-parse-to-table/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.46eb1ff9.chunk.js.LICENSE.txt": "/csv-parse-to-table/static/js/2.46eb1ff9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8b9140d.js",
+    "static/js/2.46eb1ff9.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.92e5017b.chunk.js"
+  ]
+}
